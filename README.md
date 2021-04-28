@@ -2,6 +2,8 @@
 
 This is a quick and easy template repository you can use to get up and running with expo managed workflows connected to firestore and firebase!
 
+This template repository was based off of this [guide](https://blog.logrocket.com/how-to-set-up-email-authentication-with-react-native-react-navigation-and-firebase/) of setting up email authentication with firebase, modified to support google authentication with the google sign-in sdk!
+
 # What Do I Need To Do To Get Started?
 
 - First, set up your app on the Firebase Console.
